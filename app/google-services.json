@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997268802947",
+    "project_id": "leitor-d7b99",
+    "storage_bucket": "leitor-d7b99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997268802947:android:856ccc0d7c46f562cdfab6",
+        "android_client_info": {
+          "package_name": "com.example.leitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJcz1p6btmYJ4Zlqt1EiORc_qKdAlvwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
