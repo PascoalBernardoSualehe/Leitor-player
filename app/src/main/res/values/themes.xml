@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Leitor" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Cores para o modo ESCURO -->
+        <item name="colorOnSurface">@color/white</item> <!-- Ícones e texto serão BRANCOS -->
+
+        <!-- INÍCIO DA IMPLEMENTAÇÃO: Correção para o comportamento do teclado -->
+        <item name="android:windowIsFloating">false</item>
+        <!-- FIM DA IMPLEMENTAÇÃO -->
+
+        <!-- Outras cores primárias, etc. -->
+    </style>
+</resources>

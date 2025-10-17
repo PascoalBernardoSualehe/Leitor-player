@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cores para o destaque da música -->
+    <color name="current_song_background">#338BC34A</color> <!-- Verde claro translúcido -->
+    <color name="current_song_text">#689F38</color>       <!-- Verde sólido para o texto -->
+
+    <!-- Cores para o estado normal (assumindo um tema escuro) -->
+    <color name="song_title_normal">#DEFFFFFF</color> <!-- Branco com 87% de opacidade -->
+    <color name="song_artist_normal">#B3FFFFFF</color> <!-- Branco com 70% de opacidade -->
+</resources>

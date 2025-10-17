@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_view_playlists"
+        android:title="Ver Playlists" />
+
+    <!-- INÍCIO DA CORREÇÃO: Botão alterado para "Criar Playlist" -->
+    <item
+        android:id="@+id/action_create_playlist"
+        android:title="Criar Playlist" />
+    <!-- FIM DA CORREÇÃO -->
+
+</menu>
